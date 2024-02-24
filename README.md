@@ -45,4 +45,4 @@ Limited access to healthcare services in remote areas leading to delayed diagnos
 Develop an advanced remote health monitoring platform utilizing cutting-edge technologies to bridge the gap in healthcare accessibility and enable proactive healthcare management.
 8. GitHub Repository:
 
-Link to GitHub Repository 
+Link to GitHub Repository https://github.com/abdiali2024/Advanced-Technologies-for-Remote-Health-Monitoring.git
